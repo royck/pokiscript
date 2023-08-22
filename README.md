@@ -30,7 +30,7 @@ Before you begin, make sure you have the following installed on your system:
 2. Open your terminal and navigate to the project directory.
 
     ```bash
-    cd poki
+    cd pokiscript
     ```
 
 3. Install the project dependencies using npm.
