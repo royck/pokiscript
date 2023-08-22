@@ -24,12 +24,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/poki.git"
+    "url": "https://github.com/royck/pokiscript.git"
   }, 
   "bugs": {
-    "url": "https://github.com/yourusername/poki/issues" 
+    "url": "https://github.com/royck/pokiscript/issues" 
   },
-  "homepage": "https://github.com/yourusername/poki"
+  "homepage": "https://github.com/royck/pokiscript"
 }
 
 
