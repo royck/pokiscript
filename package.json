@@ -1,0 +1,35 @@
+{
+  "name": "poki",
+  "version": "1.0.0",
+  "description": "pokemon evolution finder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npx jest"
+  },
+  "keywords": [
+    "pokemon",
+    "evolution"
+  ],
+  "author": "Roy",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
+    "jest": "^29.6.2"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/poki.git"
+  }, 
+  "bugs": {
+    "url": "https://github.com/yourusername/poki/issues" 
+  },
+  "homepage": "https://github.com/yourusername/poki"
+}
+
+
