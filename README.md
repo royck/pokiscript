@@ -60,4 +60,8 @@ Before you begin, make sure you have the following installed on your system:
 This project uses [Jest](https://jestjs.io/) for testing. To run the tests, use the following command:
 
 ```bash
+<<<<<<< HEAD
 npm test
+=======
+npm test
+>>>>>>> 6381e4ba8c6bfe2f6b1a089da5ac765bddf07ed8
